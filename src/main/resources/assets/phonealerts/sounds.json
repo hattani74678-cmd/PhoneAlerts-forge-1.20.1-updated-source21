@@ -1,0 +1,7 @@
+{
+  "alert_tone": {
+    "category": "master",
+    "sounds": [ { "name": "phonealerts:alert_tone", "stream": false } ],
+    "subtitle": "phonealerts.subtitle.alert_tone"
+  }
+}
